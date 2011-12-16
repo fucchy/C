@@ -1,0 +1,13 @@
+JTC1/SC22/WG14 - C(標準Cを制定している委員会)
+http://www.open-std.org/jtc1/sc22/wg14/
+
+The lastest publically available version of the standard is the combined C99 + TC1 + TC2 + TC3, WG14 N1256, dated 2007-09-07.
+http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf
+
+次期C標準(通称C1x)
+http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1539.pdf
+
+-----
+C言語をコンパイルする際のメモ
+(C99規格に準拠して、なるべく処理系に依存しない方針)
+$ gcc -std=c99 -pedantic -Wall filename.c -o filename.o
