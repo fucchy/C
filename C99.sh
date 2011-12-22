@@ -24,3 +24,6 @@ gcc -std=c99 -pedantic -Wall $1 -o ${string_filename_to_objectfile}
 
 # 参考URI
 # http://www.kishiro.com/FreeBSD/get_filename_in_shellscript.html
+
+# man 該当箇所 -> GNU Bash man "3.5.3 Shell Parameter Expansion"
+# http://www.gnu.org/software/bash/manual/bash.html
