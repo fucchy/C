@@ -17,6 +17,6 @@ int main(int argc,char *argv[]){
 }
 
 void out(char *p){
-    printf("%s\n",p);
+  printf("%s\n",p);
 }
 
