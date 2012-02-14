@@ -1,4 +1,4 @@
-# 標準Cについて #
+標準Cについて
 
 JTC1/SC22/WG14 (標準Cを制定している作業部会)  
 http://www.open-std.org/jtc1/sc22/wg14/
