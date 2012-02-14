@@ -1,4 +1,4 @@
-# 標準Cについて
+# 標準Cについて #
 
 JTC1/SC22/WG14 (標準Cを制定している作業部会)  
 http://www.open-std.org/jtc1/sc22/wg14/
@@ -12,7 +12,7 @@ http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf
 http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1539.pdf
 
 ---
-# C言語をコンパイルする際のメモ
+# C言語をコンパイルする際のメモ #
 
 (C99規格に準拠して、なるべく処理系に依存しない方針)  
 `$ gcc -std=c99 -pedantic -Wall filename.c -o filename.o`
@@ -21,7 +21,7 @@ http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1539.pdf
 タブ文字(ASCII:0x09)は使わない。私の方針として、タブ文字に相当する所は半角スペース2文字で書いていく。  
 
 ---
-# 今、自分がしなければならない事
+# 今、自分がしなければならない事 #
 1. C99にある標準ヘッダー24個で定義されている関数を扱い慣れる
 2. 様々なアルゴリズムに触れて肝を体得する
 3. 自分仕様の教科書を作って、使い慣れて、いつでもすぐに参照出来る体制を整える
