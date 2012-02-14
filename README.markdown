@@ -12,7 +12,7 @@ http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf
 http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1539.pdf
 
 ---
-# C言語をコンパイルする際のメモ #
+C言語をコンパイルする際のメモ
 
 (C99規格に準拠して、なるべく処理系に依存しない方針)  
 `$ gcc -std=c99 -pedantic -Wall filename.c -o filename.o`
