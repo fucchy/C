@@ -28,4 +28,4 @@ http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1539.pdf
 4. 原文の仕様書を自分なりに日本語に訳してみる
 5. 余裕があれば、C1xの新規格で遊んでみる
 6. コンパイラによる差異を把握する(GCC, Mcrosoft Visual C++, Borland C++ Compiler, Intel C++ Comiler etc.)
-
+7. test
