@@ -1,7 +1,6 @@
 # test
 
-JTC1/SC22/WG14 (標準Cを制定している作業部会)
-
+JTC1/SC22/WG14 (標準Cを制定している作業部会)  
 [http://www.open-std.org/jtc1/sc22/wg14/](http://www.open-std.org/jtc1/sc22/wg14/ "http://www.open-std.org/jtc1/sc22/wg14/")
 
 
