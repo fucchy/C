@@ -11,7 +11,8 @@ http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf
 次期標準C (通称C1x;西暦201X年に発行を目指しているらしい)  
 http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1539.pdf
 
-***
+---
+
 # C言語をコンパイルする際のメモ #
 
 (C99規格に準拠して、なるべく処理系に依存しない方針)  
