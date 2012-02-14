@@ -27,7 +27,3 @@ http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1539.pdf
 5. 余裕があれば、C1xの新規格で遊んでみる  
 6. コンパイラによる差異を把握する(GCC, Mcrosoft Visual C++, Borland C++ Compiler, Intel C++ Comiler etc.)  
 
-test  
-1. test  
-2. test  
-3. test
