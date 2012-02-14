@@ -14,7 +14,7 @@ http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1539.pdf
 # C言語をコンパイルする際のメモ  
 
 (C99規格に準拠して、なるべく処理系に依存しない方針)  
-$ gcc -std=c99 -pedantic -Wall filename.c -o filename.o
+`$ gcc -std=c99 -pedantic -Wall filename.c -o filename.o`
 
 コメントは//も使える(C99以降採用なので)ので、使っていく。  
 タブ文字(ASCII:0x09)は使わない。私の方針として、タブ文字に相当する所は半角スペース2文字で書いていく。  
