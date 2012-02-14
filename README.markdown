@@ -4,7 +4,7 @@ JTC1/SC22/WG14 (標準Cを制定している作業部会)
 http://www.open-std.org/jtc1/sc22/wg14/
 
 
-The  lastest publically available version of the standard is the combined C99 + TC1 + TC2 + TC3, WG14 N1256, dated 2007-09-07.  
+The lastest publically available version of the standard is the combined C99 + TC1 + TC2 + TC3, WG14 N1256, dated 2007-09-07.  
 (C99にTechnical Corrigenda(TC;正誤票)を追加した文書。正誤表ではなく正誤票らしい。JISが採用している訳語では。)  
 http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf
 
@@ -12,7 +12,6 @@ http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1256.pdf
 http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1539.pdf
 
 ---
-
 # C言語をコンパイルする際のメモ #
 
 (C99規格に準拠して、なるべく処理系に依存しない方針)  
