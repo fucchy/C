@@ -31,3 +31,4 @@ C言語をコンパイルする際のメモ
 5. 余裕があれば、C1xの新規格で遊んでみる
 6. コンパイラによる差異を把握する(GCC, Mcrosoft Visual C++, Borland C++ Compiler, Intel C++ Comiler etc.)
 7. test
+8. testtest
