@@ -1,4 +1,4 @@
-.
+C/README.markdown
 
 標準Cについて
 -------------
