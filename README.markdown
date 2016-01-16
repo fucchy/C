@@ -29,5 +29,3 @@ C言語をコンパイルする際のメモ
 4. 原文の仕様書を自分なりに日本語に訳してみる
 5. 余裕があれば、C1xの新規格で遊んでみる
 6. コンパイラによる差異を把握する(GCC, Mcrosoft Visual C++, Borland C++ Compiler, Intel C++ Comiler etc.)
-
-テスト02
